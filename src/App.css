@@ -1,6 +1,10 @@
 .background-color {
   background-color: #fb6340;
 }
+
+.loading {
+  justify-content: center;
+}
 .h1-name {
   font-family: "WF Visual Sans", Arial, sans-serif;
 }
